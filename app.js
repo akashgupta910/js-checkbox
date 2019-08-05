@@ -37,7 +37,7 @@ class Bucket {
 }
 
 (function Main() {
-    let titles = ['Layout for feature pages', 'Customer testimonial', 'Pickup keys', 'Wrap papers', 'Send mail to customers'];
+    let titles = ['Layout for pages', 'Customer testimonial', 'Pickup keys', 'Wrap papers', 'Send mail to customers'];
 
     let id = 0;
     titles.forEach(title => {
